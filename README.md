@@ -1,5 +1,5 @@
 # Black Adder
-Service discovery stuff.
+REST service that adds two numbers.
 
 ## Make targets
 ```make start```
